@@ -1,0 +1,18 @@
+Sample,Gene name,Average %HDR,,
+,,Gdna,cDNA,
+H1,FOXP1,0,0.18,Editing too low
+H2,CUX1,3.61,3.34,"Nice editing, reads low and no difference"
+H3,SH2B3,92.82,94.35,Looks too high editin. Check HL60 genome could it be the natural wt seq
+H4,BRAP,19.12,,Repeat as no cDNA or could editing be causing expression knock down?
+H5,UGCG,11.42,13.6127319,Possibly exciting difference in expression!
+H6,DNMT1,0,0,Has not worked likely pcr band too big
+H7,BID,6.04,7.04,Possibly exciting
+H8,C2CD5,3.20,3.78,Looks like likely no difference
+H9,FUT8,66.73,66.06,Looks like excellent editing but no difference
+H10,EPB41,0.09,0.10,Editing too low
+H11,LUC7L,0.14,0.13,Editing too low
+H12,OVOL2,0.17,,Editing too low
+H13,PLEKHG3,0.14,0.22,Editing too low
+H14,CEP104,0.06,0.20,Editing too low
+,,,,
+Repeat H4 BRAP,,,,

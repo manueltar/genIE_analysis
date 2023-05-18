@@ -1,0 +1,18 @@
+Sample,Gene name,Average %HDR,,
+,,Gdna,cDNA,
+T12,FOXP1,0.15,0.12,Editing too low
+T13,CUX1,0.10,0.05,Editing too low
+T14,SH2B3,12.47,9.27,Good amount of editing but low on overage reads
+T15,BRAP,0.11,0.07,Editing too low
+T16,UGCG,3.71,,Good editing but no cDNA
+T17,DNMT1,0.00,,Think reads do not cover site
+T18,BID,1.29,1.47,Editing but doesn’t look like a difference between gDNA and Cdna expression
+T19,C2CD5,0.06,0.04,Editing too low
+T20,FUT8,0.27,0.23,Editing too low
+T21,EPB41,0.13,0.12,Editing too low
+T22,LUC7L,0.03,0.03,Editing too low
+T23,OVOL2,0.09,0.05,Editing too low
+T24,PLEKHG3,0.07,0.16,Editing too low
+T25,CEP104,0.00,0.01,"Editing too low, half reads don't cover the site"
+,,,,
+Repeat T16 UGCG,,,,
